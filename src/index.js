@@ -12,7 +12,6 @@ const em = (px, base) => {
 };
 
 module.exports = plugin(function () {}, {
-    important: true,
     theme: {
         extend: {
             typography: {
