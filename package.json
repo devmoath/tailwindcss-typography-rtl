@@ -1,6 +1,6 @@
 {
     "name": "@devmoath/tailwindcss-typography-rtl",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Add RTL support for tailwindcss-typography plugin",
     "license": "MIT",
     "author": "Moath <moath.alhajrii@gmail.com> (https://moath.dev/)",
