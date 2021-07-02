@@ -4,7 +4,14 @@
     "description": "Add RTL support for tailwindcss-typography plugin",
     "license": "MIT",
     "author": "Moath <moath.alhajrii@gmail.com> (https://moath.dev/)",
-    "repository": "https://github.com/DevMoath/tailwindcss-typography-rtl",
+    "homepage": "https://github.com/DevMoath/tailwindcss-typography-rtl#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevMoath/tailwindcss-typography-rtl.git"
+    },
+    "bugs": {
+        "url": "https://github.com/DevMoath/tailwindcss-typography-rtl/issues"
+    },
     "main": "src/index.js",
     "files": [
         "src/*.js",
