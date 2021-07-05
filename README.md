@@ -1,4 +1,4 @@
-# @devmoath/tailwindcss-typography-rtl
+# @devmoath/tailwindcss-typography-rtl [![Node.js Package](https://github.com/DevMoath/tailwindcss-typography-rtl/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/DevMoath/tailwindcss-typography-rtl/actions/workflows/npm-publish.yml)
 
 Add RTL support for tailwindcss-typography plugin
 
