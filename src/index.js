@@ -33,6 +33,9 @@ module.exports = plugin(function () {}, {
                         'thead th, tbody td': {
                             textAlign: 'right',
                         },
+                        pre: {
+                            direction: 'ltr',
+                        },
                     },
                 },
             },
