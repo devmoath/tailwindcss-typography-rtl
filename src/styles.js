@@ -21,6 +21,9 @@ module.exports = function (options) {
                 pre: {
                     direction: 'ltr',
                 },
+                a: {
+                    overflowWrap: 'break-word',
+                },
             },
         },
     };
