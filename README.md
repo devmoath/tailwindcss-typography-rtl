@@ -2,6 +2,8 @@
 
 Add RTL support for tailwindcss-typography plugin
 
+> Package is deprecated: tailwind css v3.0 added [RTL support](https://tailwindcss.com/docs/hover-focus-and-other-states#rtl-support) so this package is no longer needed
+
 ## Problem description
 
 if you are using [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) for RTL languages you will see the list point and blockquote border in the wrong direction (see the picture)
